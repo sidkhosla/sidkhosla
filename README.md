@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sidkhosla
+- 🌱 I’m currently learning C# and working as a Java SDET with background in business and accounts.
+- 💞️ I’m looking to collaborate on any projects
+- 📫 Email me sidkhosla2@gmail.com
