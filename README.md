@@ -31,4 +31,4 @@ Some other note-worthy skills/tool proficiencies:
 
 [![Sidhant's's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidkhosla&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
-📧 Feel free to get in touch with me: sidkhosla22@gmail.com
+📧 Feel free to get in touch with me: sidkhosla2@gmail.com
